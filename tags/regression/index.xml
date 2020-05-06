@@ -17,7 +17,16 @@
        <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
        
        <guid>/2020/05/06/welcome/</guid>
-       <description>&lt;p&gt;Test post&lt;/p&gt;
+       <description>&lt;ul&gt;
+&lt;li&gt;Heading 1
+** Heading 2
+*** Heading 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Test post&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;number&lt;/li&gt;
+&lt;li&gt;number&lt;/li&gt;
+&lt;/ol&gt;
 </description>
      </item>
    
